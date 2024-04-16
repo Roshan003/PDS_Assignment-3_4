@@ -1,4 +1,4 @@
-# Roshan003-PDS_Assignment-3_4
+# PDS_Assignment-3_4
 
 Assignment 3 and 4
 1) Use any open-source API to access some data in Jason format and then parse the Jason data and
